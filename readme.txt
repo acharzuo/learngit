@@ -1,4 +1,4 @@
  Git is a software.
 Line 3
 git line added 
-git tracks changes.
+git tracks changes of file.
